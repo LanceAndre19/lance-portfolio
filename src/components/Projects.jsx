@@ -20,7 +20,7 @@ import automation4 from "../assets/automation/4.png";
 import automation5 from "../assets/automation/5.png";
 import automation6 from "../assets/automation/6.png";
 
-import coding1 from "../assets/coding/coding1.png";
+import coding1 from "../assets/coding/Coding1.png";
 
 function Projects() {
   const bioImages = [
